@@ -29,6 +29,11 @@ If you’d like to contribute to this project, please follow these steps:
 3. **Make your modifications** and commit them.
 4. **Push to your fork** and create a pull request.
 
+## Live Demo
+
+Play it online here:
+git clone https://github.com/Haritha790/simon_says-game.git
+
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
