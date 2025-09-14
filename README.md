@@ -32,7 +32,7 @@ If you’d like to contribute to this project, please follow these steps:
 ## Live Demo
 
 Play it online here:
-git clone https://github.com/Haritha790/simon_says-game.git
+git clone https://github.com/Haritha790/simon_says-game
 
 
 ## Contact
