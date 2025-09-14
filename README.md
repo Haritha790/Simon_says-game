@@ -33,7 +33,7 @@ If you’d like to contribute to this project, please follow these steps:
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 - Email:harithabammidi78@example.com
-- GitHub: [Trisha-05](https://github.com/Haritha790)
+- GitHub: [Haritha790](https://github.com/Haritha790)
 
 ---
 
